@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IL
+- 👋 Hi, I’m IL
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning various programming language which will advance my skills
 - 💞️ I’m looking to collaborate on applications and games
